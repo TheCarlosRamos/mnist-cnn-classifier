@@ -20,7 +20,7 @@ pip install numpy matplotlib tensorflow scikit-learn
 
 ## Como rodar
 
-1. Certifique-se de que o arquivo `mnist_784.csv` está na mesma pasta do script.
+1. Certifique-se de que o arquivo [mnist_784](https://api.openml.org/d/554) está na mesma pasta do script.
 2. Execute:
 
 ```bash
