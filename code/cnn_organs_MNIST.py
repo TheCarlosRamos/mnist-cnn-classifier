@@ -220,9 +220,10 @@ def main():
     plt.tight_layout()
     plt.show()
     
-    print(f"\n📋 Legenda Completa - {DATASET_NAME}:")
+    print(f"\nLegenda Completa - {DATASET_NAME}:")
     for i, name in enumerate(class_names):
         print(f"   {i}: {name}")
 
 if __name__ == '__main__':
+
     main()
